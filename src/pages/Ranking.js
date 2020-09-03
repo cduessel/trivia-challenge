@@ -17,7 +17,7 @@ export default class Ranking extends Component {
       <div>
         <header>
           <Link className="btn" to="/" data-testid="btn-go-home">
-            Jogar Denovo!
+            play AGAIN!
           </Link>
           <h1 data-testid="ranking-title" className="big">RANKING</h1>
         </header>
