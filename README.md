@@ -1,4 +1,4 @@
-#[UPDATE] projeto em: https://agile-gorge-00509.herokuapp.com  
+# [UPDATE] projeto em: https://agile-gorge-00509.herokuapp.com  
 
 # Boas vindas ao repositório do projeto de Trivia!
 
